@@ -1,0 +1,7 @@
+-- TOP 
+
+SELECT TOP 10 *
+FROM TABELA
+
+SELECT TOP 10 *
+FROM production.Product
